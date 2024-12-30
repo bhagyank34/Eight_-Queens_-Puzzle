@@ -1,4 +1,3 @@
-https://github.com/bhagyank34/Eight-Queens-Puzzle.git
 
 
 # 8 Queens Puzzle
